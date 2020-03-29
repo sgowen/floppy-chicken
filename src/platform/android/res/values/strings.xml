@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Floppy Chicken</string>
+    <string name="airpush_app_id">203793</string>
+    <string name="api_key">1353425121124745453</string>
+    <string name="sign_in_failed">Sign-in failed&#8230;</string>
+
+</resources>
